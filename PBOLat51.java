@@ -1,5 +1,12 @@
 import java.util.Scanner;
-
+/**
+ *
+ * @author ACER
+ * NAMA     : ALIVIA FATAH YUMNA
+ * KELAS    : PBO RegPagi
+ * NIM      : 22166016
+ * DESKRIPSI PROGRAM : Program ini berisi program untuk menampilkan gaji karyawan
+ */
 // Class Karyawan
 class Karyawan {
     private String nik;
